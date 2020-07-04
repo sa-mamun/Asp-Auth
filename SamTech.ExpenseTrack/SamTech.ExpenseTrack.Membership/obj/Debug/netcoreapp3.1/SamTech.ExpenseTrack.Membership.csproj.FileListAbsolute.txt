@@ -1,0 +1,9 @@
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\bin\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.deps.json
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\bin\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.dll
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\bin\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.pdb
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.AssemblyInfoInputs.cache
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.AssemblyInfo.cs
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.csproj.CoreCompileInputs.cache
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.dll
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.pdb
+D:\Asp_Core_B3_Assignment\SamTech.ExpenseTrack\SamTech.ExpenseTrack.Membership\obj\Debug\netcoreapp3.1\SamTech.ExpenseTrack.Membership.csprojAssemblyReference.cache
