@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<br />
+
+<h2>Add: </h2>
+<hr />
+<div>
+    <h3>Add Course: </h3>
+    <form action="/Home/Course" method="post">
+        <input type="text" name="Title" placeholder="Title" />
+        <input type="text" name="SeatCount" placeholder="SeatCount" />
+        <input type="text" name="Fee" placeholder="Fee" />
+        <input type="submit" value="Add" />
+    </form>
+</div>
+<br />
+<div>
+    <h3>Add Student: </h3>
+    <form action="/Home/Index" method="post">
+        <input type="text" name="Name" placeholder="Name" />
+        <input type="datetime" name="DateOfBirth" placeholder="MM/DD/YYYY" />
+        <input type="submit" value="Add" />
+    </form>
+</div>
+<br />
+<div>
+    <h3>Add Student Registration: </h3>
+    <form action="/Home/Registration" method="post">
+        <input type="text" name="StudentId" placeholder="StudentId" />
+        <input type="text" name="CourseId" placeholder="CourseId" />
+        <input type="datetime" name="EnrollDate" placeholder="MM/DD/YYYY" />
+        <input type="text" name="isPaymentComplete" placeholder="isPaymentComplete" />
+        <input type="submit" value="Add" />
+    </form>
+</div>
+<br />
+<br />
+
+<h2>Edit: </h2>
+<hr />
+<div>
+    <h3>Edit Course: </h3>
+    <form action="/Home/EditCourse" method="post">
+        <input type="text" name="Id" placeholder="Course Id" />
+        <input type="text" name="Title" placeholder="Title" />
+        <input type="text" name="SeatCount" placeholder="SeatCount" />
+        <input type="text" name="Fee" placeholder="Fee" />
+        <input type="submit" value="Edit" />
+    </form>
+</div>
+<br />
+<div>
+    <h3>Edit Student: </h3>
+    <form action="/Home/EditStudent" method="post">
+        <input type="text" name="Id" placeholder="Student Id" />
+        <input type="text" name="Name" placeholder="Name" />
+        <input type="datetime" name="DateOfBirth" placeholder="MM/DD/YYYY" />
+        <input type="submit" value="Edit" />
+    </form>
+</div>
+<br />
+<br />
+
+<h2>Delete: </h2>
+<hr />
+<div>
+    <h3>Delete Course: </h3>
+    <form action="/Home/DeleteCourse" method="post">
+        <input type="text" name="Id" placeholder="Course Id" />
+        <input type="submit" value="Delete" />
+    </form>
+</div>
+<br />
+<div>
+    <h3>Delete Student: </h3>
+    <form action="/Home/DeleteStudent" method="post">
+        <input type="text" name="Id" placeholder="Student Id" />
+        <input type="submit" value="Delete" />
+    </form>
+</div>
+
